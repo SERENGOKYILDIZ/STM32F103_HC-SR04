@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Email: gokyildizsemieren@gmail.com
 - GitHub: [SERENGOKYILDIZ](https://github.com/SERENGOKYILDIZ)
-- LinkedIn: [Semi Eren Gökyıldız](https://www.linkedin.com/in/semi-eren-gökyıldız)
+- LinkedIn: [Semi Eren Gökyıldız](https://www.linkedin.com/in/semi-eren-gokyildiz/)
 
 ---
 
